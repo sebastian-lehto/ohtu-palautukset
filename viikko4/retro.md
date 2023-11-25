@@ -7,3 +7,4 @@ Glad, Sad, Mad taas keskittyy enemmän ryhmän jäsenien tuntemuksiin. Jokainen 
 Retrospektiivitekniikoiden avulla ryhmän toimintaa voidaan tehostaa ja jäsenet pääsevät ilmaisemaan mielipiteitään ja tunteitaan ryhmän toimintaan liittyen.
 
 .
+.
