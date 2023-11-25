@@ -8,3 +8,4 @@ Retrospektiivitekniikoiden avulla ryhmän toimintaa voidaan tehostaa ja jäsenet
 
 .
 .
+.
